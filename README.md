@@ -26,7 +26,7 @@ Utilizing the IQR rule, the upper bound of the target variable i.e salary was fo
 ## **Relationship between Target Variable (Salaries) and Input Variables**
  ![](Images/Image%202.png)
  
-                                 Salary is positively correlated with job type
+                                                   Salary is positively correlated with job type
 
  
 High salaries tend to correspond to advanced degrees
