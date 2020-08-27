@@ -27,9 +27,9 @@ Utilizing the IQR rule, the upper bound of the target variable i.e salary was fo
  ![](Images/Image%202.png)
  
                                                    Salary is positively correlated with job type
-
+![](Images/Image%203.png)
  
-High salaries tend to correspond to advanced degrees
+                                                   High salaries tend to correspond to advanced degrees
 
  
 Employees with majors of engineering, business and math have corresponding high salaries
