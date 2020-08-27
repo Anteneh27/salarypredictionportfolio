@@ -18,14 +18,15 @@ The data was checked and cleaned for duplicate records, missing values and for i
 
 
 ## **Visualizing the Target Variable / Salary**
-
+![](Images/Image%201.png)
  
 
 Utilizing the IQR rule, the upper bound of the target variable i.e salary was found to be 220.5 and with a lower bound of 8.5. It is observed that senior level roles were getting salaries above the upper bound. Surprisingly, however, there were also 16 junior level roles getting high salaries above the upper bound. It is quite plausible that these junior roles were able to earn salaries above the upper bound owing to reason that all of them have very high years of experience in their roles and that all of them belong to two of the high paying industry sectors: oil and finance.
 
 ## **Relationship between Target Variable (Salaries) and Input Variables**
+ ![](Images/Image%202.png)
  
-Salary is positively correlated with job type
+      Salary is positively correlated with job type
 
  
 High salaries tend to correspond to advanced degrees
