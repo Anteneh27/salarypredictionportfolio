@@ -47,7 +47,7 @@ Utilizing the IQR rule, the upper bound of the target variable i.e salary was fo
 ## **Visualizing the Correlation across all Columns**
 ![](Images/Image%208.png) 
 
-                                It can be seen that job type, degree, years of experience and major are most closely related to salaries 
+                           It can be seen that job type, degree, years of experience and major are most closely related to salaries 
 
 ## **Engineer Features**
 
