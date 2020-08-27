@@ -1,4 +1,4 @@
-#### **Salary Prediction Project**
+# **Salary Prediction Project**
 
 ## **Introduction**
 
