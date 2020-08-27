@@ -32,22 +32,22 @@ Utilizing the IQR rule, the upper bound of the target variable i.e salary was fo
                                                  High salaries tend to correspond to advanced degrees
 ![](Images/Image%204.png)
  
-                                  Employees with majors of engineering, business and math have corresponding high salaries
+                                Employees with majors of engineering, business and math have corresponding high salaries
 ![](Images/Image%205.png)
  
-                                             Higher salaries correspond to the oil, finance and web industry sectors
+                                           Higher salaries correspond to the oil, finance and web industry sectors
 ![](Images/Image%206.png) 
 
-                                                Salary is directly correlated with years of experience
+                                              Salary is directly correlated with years of experience
 ![](Images/Image%207.png)
  
-                                               Salaries decrease as you go further away from the metropolis
+                                             Salaries decrease as you go further away from the metropolis
 
 
 ## **Visualizing the Correlation across all Columns**
 ![](Images/Image%208.png) 
 
-                    It can be seen that job type, degree, years of experience and major are most closely related to salaries 
+                   It can be seen that job type, degree, years of experience and major are most closely related to salaries 
 
 ## **Engineer Features**
 
